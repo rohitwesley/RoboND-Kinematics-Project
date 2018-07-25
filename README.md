@@ -1,10 +1,10 @@
 # RoboND-Kinematics-Project
 
-## Project: Kinematics Pick & Place
-
-
 [//]: # (Image References)
-[snapeshot]: ./images/Screen Shot 2018-07-25 at 9.06.00 AM.png
+
+[snapeshot]: ./misc_images/misc1.png
+[image2]: ./misc_images/misc3.png
+[image3]: ./misc_images/misc2.png
 [start]: ./images/start.jpg
 [dh]: ./images/dh.png
 [alpha]: ./images/alpha.png
@@ -62,6 +62,9 @@
 [R_3_6-calc-LHS-2]: ./images/R_3_6-calc-LHS-2.png
 [y]: ./images/y.png
 [P_small]: ./images/p.png
+
+
+## Project: Kinematics Pick & Place
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/972/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
