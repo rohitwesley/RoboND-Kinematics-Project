@@ -2,10 +2,7 @@
 
 [//]: # (Image References)
 
-[snapeshot]: ./misc_images/misc1.png
-[image2]: ./misc_images/misc3.png
-[image3]: ./misc_images/misc2.png
-[start]: ./images/start.jpg
+[snapshot]: ./images/start.png
 [dh]: ./images/dh.png
 [alpha]: ./images/alpha.png
 [alpha_i-1]: ./images/alpha_i-1.png
@@ -78,8 +75,6 @@ You're reading it!
 In this project, we are working with a simulation of Kuka KR210 to pick up cans from a shelf and then put them in a dropbox.
 
 Note: For information on setting up and running this project, [Link](./Basic_README.md)
-
-![alt text][snapeshot]
 
 ## Forward and Inverse Kinematics
 Forward Kinematics (FK) is a set of methods to calculate the final coordinate position and rotation of end-effector of a conjoined links (e.g. robotic arms, limbs, etc.), given parameters of each joint between links. In this project, these parameters are angles of each joint, totalling 6 joints (i.e. 6 Degrees of Freedom).
@@ -228,7 +223,7 @@ IK Server Script:- [IK_server.py](./kuka_arm/scripts/IK_server.py)
 Debug Script:- [IK_debug.py](./IK_debug.py)
 
 The result can be seen :
-![snapeshot][snapeshot]
+![snapshot][snapshot]
 
 # TODO Solution
 Improved solution will be done after course is passed
